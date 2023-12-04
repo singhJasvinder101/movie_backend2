@@ -18,7 +18,7 @@ connectDb()
 //     credentials: true
 // }))
 // const allowedOrigins = ['https://movie-backend-eta.vercel.app', 'https://movie-frontend-six.vercel.app'];
-const allowedOrigins = ['https://movie-backend-eta.vercel.app', 'https://series-addict.netlify.app'];
+const allowedOrigins = ['https://movie-backend2.vercel.app', 'https://series-addict.netlify.app'];
 // const allowedOrigins = ['http://localhost:5173', 'http://localhost:3000'];
 const corsOptions = {
     origin: function (origin, callback) {
